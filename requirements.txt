@@ -5,3 +5,7 @@ langchain-community
 langchain-groq
 sentence-transformers
 faiss-cpu
+langchain-hugginface
+tiktoken
+huggingface-hub
+langchain-core
