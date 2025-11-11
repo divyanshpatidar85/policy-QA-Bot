@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'addend-policy-qa-bot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D0E46D127A043C7A5989F4CF3D97A1F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F5C9B01730E34925B117C35D0FAE225B }}
